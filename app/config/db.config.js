@@ -24,3 +24,15 @@ db.product = require('../model/products.model.js')(sequelize, Sequelize);
 
 
 module.exports = db;
+
+
+
+
+//CLEARDB_DATABASE_URL: mysql://be7150a6fe518a:9949934c@us-cdbr-iron-east-03.cleardb.net/heroku_9caa1a986ef025f?reconnect=true
+
+
+// be7150a6fe518a
+
+// 9949934c
+
+// us-cdbr-iron-east-03.cleardb.net
